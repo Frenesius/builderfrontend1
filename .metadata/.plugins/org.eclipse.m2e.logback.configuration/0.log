@@ -1,0 +1,5 @@
+2014-12-19 13:13:38,122 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Test:Test:0.0.1-SNAPSHOT @ C:\Users\Abed Ghaffer\Documents\GitHub\PC-Builder-Matcher\Test\pom.xml.
+2014-12-19 13:13:58,433 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-19 13:13:58,438 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abed Ghaffer\Documents\GitHub\PC-Builder-Matcher\Test\src\main\resources
+2014-12-19 13:13:58,443 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-19 13:13:58,447 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abed Ghaffer\Documents\GitHub\PC-Builder-Matcher\Test\src\test\resources
